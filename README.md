@@ -24,7 +24,6 @@ Download or clone this repo by using the link below:
 
 ```
 https://github.com/dulajkavinda/realtime-chat-socketio.git
-
 ```
 
 **Step 2:**
@@ -33,7 +32,16 @@ Go to project root and execute the following command in console to get the requi
 
 ```
 npm install
+```
 
+**Step 3:**
+
+Run project:
+
+```
+npm start
+cd web
+npm start
 ```
 
 ## Folder Structure
